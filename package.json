@@ -1,7 +1,7 @@
 {
   "name": "grunt-sassdoc",
   "title": "grunt-sassdoc",
-  "version": "2.0.1-modified-for-css-support",
+  "version": "2.0.2-modified-for-css-support",
   "description": "SassDoc grunt task",
   "keywords": [
     "gruntplugin",
@@ -29,7 +29,7 @@
   ],
   "dependencies": {
     "lodash.assign": "^2.4.1",
-    "sassdoc": "aristretto/sassdoc#2.1.9-modified-for-css-support"
+    "sassdoc": "aristretto/sassdoc#2.1.11-modified-for-css-support"
   },
   "devDependencies": {
     "faucet": "0.0.1",
