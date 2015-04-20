@@ -29,7 +29,7 @@
   ],
   "dependencies": {
     "lodash.assign": "^2.4.1",
-    "sassdoc": "aristretto/sassdoc#2.1.11-modified-for-css-support"
+    "sassdoc": "aristretto/sassdoc#2.1.12-modified-for-css-support"
   },
   "devDependencies": {
     "faucet": "0.0.1",
