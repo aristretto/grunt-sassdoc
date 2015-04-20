@@ -1,7 +1,7 @@
 {
   "name": "grunt-sassdoc",
   "title": "grunt-sassdoc",
-  "version": "2.0.2-modified-for-css-support",
+  "version": "2.0.3-modified-for-css-support",
   "description": "SassDoc grunt task",
   "keywords": [
     "gruntplugin",
